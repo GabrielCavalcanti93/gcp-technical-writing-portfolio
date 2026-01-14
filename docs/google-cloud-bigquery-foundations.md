@@ -38,6 +38,9 @@ LIMIT 10
 **Processamento:** A query foi otimizada para ler apenas o necessário.
 **Exportação:** Os dados foram migrados para o **Google Sheets** e formatados como tabela para facilitar a leitura e apresentação.
 
+<img width="501" height="361" alt="Relatório Austin" src="https://github.com/user-attachments/assets/93b251e5-f3f2-4d07-9847-8713e59ad66c" />
+
+
 ## Conclusão e Boas Práticas:
 
 Utilizei o comando **LIMIT 10** para otimizar o consumo, limitando a exibição a apenas 10 linhas e evitando desperdício de cota. Outro recurso essencial foi a função **UPPER**, que padroniza os dados em maiúsculas durante a busca. Isso resolve problemas de case sensitivity (diferença entre maiúsculas e minúsculas), garantindo que a consulta retorne resultados mesmo quando não sabemos exatamente como o dado foi inserido no banco.
