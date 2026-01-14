@@ -21,6 +21,7 @@ Acesse os guias práticos que estruturei:
 - 🗄️ [Guia de Banco de Dados (SQL)](docs/banco-de-dados.md)
 - 🔍 [Guia de Análise de Dados (BigQuery)](docs/bigquery.md)
 - 📖 [Tradução Técnica: Dataset de Raios (NOAA)](docs/noaa-lightning.md) ✨ **Novo**
+- 📚 [BigQuery: Da Analogia à Prática](docs/google-cloud-bigquery-foundations.md)
 ---
 *Este é um projeto de aprendizado contínuo.*
 
