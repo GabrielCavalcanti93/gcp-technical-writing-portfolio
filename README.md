@@ -1,7 +1,7 @@
 # Tradução e Documentação Técnica: Google Cloud Docs
 **Por Gabriel Cavalcanti de Lima**
 
-Este repositório faz parte dos meus estudos de Cloud Computing e Tradução Técnica. O objetivo é praticar a estruturação de documentos e a tradução técnica de manuais do Google Cloud.
+Este repositório faz parte dos meus estudos de Computação em Nuvem e Tradução Técnica. O objetivo é praticar a estruturação de documentos e a tradução técnica de manuais do Google Cloud.
 
 ## 🚀 Sobre mim
 Sou entusiasta de **Google Cloud** e estou me especializando no nicho de tradução técnica e localização.
